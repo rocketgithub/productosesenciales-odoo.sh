@@ -1,0 +1,1 @@
+# productosesenciales-odoo.sh
