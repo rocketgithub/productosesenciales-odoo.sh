@@ -17,3 +17,7 @@
 [submodule "productosesenciales"]
 	path = productosesenciales
 	url = git@github.com:rocketgithub/productosesenciales.git
+[submodule "kardex"]
+	path = kardex
+	url = https://github.com/rocketgithub/kardex.git
+	branch = 11.0
