@@ -27,3 +27,7 @@
 [submodule "fel_infile"]
 	path = fel_infile
 	url = git@github.com:rocketgithub/fel_infile.git
+[submodule "hr_expense_invoice"]
+	path = hr_expense_invoice
+	url = git@github.com:rocketgithub/hr_expense_invoice.git
+	branch = 16.0
